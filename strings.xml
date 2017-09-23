@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebBrowser</string>
+    <string name="btn_name">Go</string>
+    <string name="EditTxt_DefaultPage">www.google.com</string>
+</resources>
